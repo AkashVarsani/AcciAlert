@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "149859622553",
+    "firebase_url": "https://accialert-1f2b1-default-rtdb.firebaseio.com",
+    "project_id": "accialert-1f2b1",
+    "storage_bucket": "accialert-1f2b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149859622553:android:fee234b5bc8954eb3b2208",
+        "android_client_info": {
+          "package_name": "com.example.accialert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb7SYUfCvo2GKDUwu4A6vNOB1HF_8Romk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
